@@ -9,4 +9,8 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.Net.WebSockets.Client" Version="4.3.2" />
+  </ItemGroup>
+
 </Project>
